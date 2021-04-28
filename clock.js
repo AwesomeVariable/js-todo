@@ -1,3 +1,4 @@
+//Select html elements
 const ClockContainer = document.querySelector(".js-clock")
 const ClockTitle = ClockContainer.querySelector("h1")
 
