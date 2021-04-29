@@ -29,7 +29,7 @@ function askName() {
 function paintWelcome(text) {
   form.classList.remove(SHOWING_CN);
   welcome.classList.add(SHOWING_CN);
-  welcome.innerText = `Hello ${text}.`;
+  welcome.innerText = `Have a good day ${text}!`;
 }
 
 //MAIN FUNCTION
